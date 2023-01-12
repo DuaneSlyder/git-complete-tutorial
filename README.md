@@ -4,3 +4,5 @@ Udemy tutorial Git Complete:The definitive, step-by-step guide to Git, utilizing
 Gosh let's make a change
 
 copyright added here again
+
+changing something on master branch as we work on another fork "simple-branch"
